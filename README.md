@@ -1,2 +1,2 @@
 # RaweProjectMotd
-motd для проекта Rawe Project
+Motd для проекта Rawe Project
